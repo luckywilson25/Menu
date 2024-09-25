@@ -2,7 +2,7 @@
 
 int main()
 {	
-    int Price;
+    int Price = 0;
     int Choose;
 
 do{
